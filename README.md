@@ -16,10 +16,10 @@
   ![Block diagram of week2 project](https://user-images.githubusercontent.com/72650435/97111833-f73aca80-1706-11eb-8186-fd0e23423287.jpg)
   
 ## Repl.it
-  # Link: 
+  Link: 
    https://repl.it/@18pa1a0525/Knowledge-bot
    
 ## Demo video for this Bot
-  # Youtube Link:
+  Youtube Link:
    https://youtu.be/oZXQvH3z_Sc
     
